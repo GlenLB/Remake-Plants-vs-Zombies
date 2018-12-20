@@ -10,3 +10,5 @@ J'ai réalisé ce jeu, remake du célèbre jeu 2D *Plants vs Zombies*, en **Java
 --------------------------
 
 Ce projet a été l'occasion d'améliorer mes compétences en Java et en programmation orientée objet. Ça a aussi été un bon exercice pour mettre en pratique les collections de base du package *java.util*.
+
+Pour jouer au jeu, vous pouvez cloner ce repository sur votre machine et l'exécuter soit avec eclipse ou en ligne de commande.
